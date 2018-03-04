@@ -1,0 +1,293 @@
+,Source,Destination,Anchor,Status Code,Follow
+6065,https://www.python.org/download/releases/2.5.1/,https://www.python.org/download/releases/2.5.1/NEWS.txt,detailed release notes,404.0,True
+6068,https://www.python.org/download/releases/2.5.1/,https://www.python.org/doc/2.5/whatsnew/whatsnew25.html,What's New In Python,404.0,True
+6082,https://www.python.org/download/releases/2.5.1/,https://www.python.org/download/releases/2.5.1/NEWS.txt,release notes,404.0,True
+6085,https://www.python.org/download/releases/2.5.1/,https://www.python.org/download/releases/2.5.1/md5sum.py,MD5,404.0,True
+6087,https://www.python.org/download/releases/2.5.1/,https://www.python.org/download/releases/2.5.1/Python-2.5.1.tgz.asc,signature,404.0,True
+6089,https://www.python.org/download/releases/2.5.1/,https://www.python.org/download/releases/2.5.1/Python-2.5.1.tar.bz2.asc,signature,404.0,True
+6091,https://www.python.org/download/releases/2.5.1/,https://www.python.org/download/releases/2.5.1/python-2.5.1.msi.asc,signature,404.0,True
+6093,https://www.python.org/download/releases/2.5.1/,https://www.python.org/download/releases/2.5.1/python-2.5.1.amd64.msi.asc,signature,404.0,True
+6095,https://www.python.org/download/releases/2.5.1/,https://www.python.org/download/releases/2.5.1/python-2.5.1.ia64.msi.asc,signature,404.0,True
+6097,https://www.python.org/download/releases/2.5.1/,https://www.python.org/download/releases/2.5.1/python-2.5.1-macosx.dmg.asc,signature,404.0,True
+6099,https://www.python.org/download/releases/2.5.1/,https://www.python.org/download/releases/2.5.1/Python25.chm.asc,signature,404.0,True
+10011,https://www.python.org/download/releases/2.5.5/,https://www.python.org/download/releases/2.5.5/NEWS.txt,detailed release notes,404.0,True
+10018,https://www.python.org/download/releases/2.5.5/,https://www.python.org/download/releases/2.5.5/NEWS.txt,release notes,404.0,True
+10020,https://www.python.org/download/releases/2.5.5/,https://www.python.org/download/releases/2.5.4/md5sum.py,MD5,404.0,True
+10022,https://www.python.org/download/releases/2.5.5/,https://www.python.org/download/releases/2.5.5/Python-2.5.5.tgz.asc,signature,404.0,True
+10024,https://www.python.org/download/releases/2.5.5/,https://www.python.org/download/releases/2.5.5/Python-2.5.5.tar.bz2.asc,signature,404.0,True
+11298,https://www.python.org/download/releases/2.5.4/,https://www.python.org/download/releases/2.5.4/NEWS.txt,detailed release notes,404.0,True
+11301,https://www.python.org/download/releases/2.5.4/,https://www.python.org/doc/2.5/whatsnew/whatsnew25.html,What's New In Python,404.0,True
+11315,https://www.python.org/download/releases/2.5.4/,https://www.python.org/download/releases/2.5.4/NEWS.txt,release notes,404.0,True
+11317,https://www.python.org/download/releases/2.5.4/,https://www.python.org/download/releases/2.5.4/md5sum.py,MD5,404.0,True
+11319,https://www.python.org/download/releases/2.5.4/,https://www.python.org/download/releases/2.5.4/Python-2.5.4.tgz.asc,signature,404.0,True
+11321,https://www.python.org/download/releases/2.5.4/,https://www.python.org/download/releases/2.5.4/Python-2.5.4.tar.bz2.asc,signature,404.0,True
+11323,https://www.python.org/download/releases/2.5.4/,https://www.python.org/download/releases/2.5.4/python-2.5.4.msi.asc,signature,404.0,True
+11325,https://www.python.org/download/releases/2.5.4/,https://www.python.org/download/releases/2.5.4/python-2.5.4.amd64.msi.asc,signature,404.0,True
+11327,https://www.python.org/download/releases/2.5.4/,https://www.python.org/download/releases/2.5.4/python-2.5.4.ia64.msi.asc,signature,404.0,True
+11329,https://www.python.org/download/releases/2.5.4/,https://www.python.org/download/releases/2.5.4/python-2.5.4-macosx.dmg.asc,signature,404.0,True
+11331,https://www.python.org/download/releases/2.5.4/,https://www.python.org/download/releases/2.5.4/Python25.chm.asc,signature,404.0,True
+12545,https://www.python.org/download/releases/2.5.3/,https://www.python.org/download/releases/2.5.3/NEWS.txt,detailed release notes,404.0,True
+12548,https://www.python.org/download/releases/2.5.3/,https://www.python.org/doc/2.5/whatsnew/whatsnew25.html,What's New In Python,404.0,True
+12562,https://www.python.org/download/releases/2.5.3/,https://www.python.org/download/releases/2.5.3/NEWS.txt,release notes,404.0,True
+12564,https://www.python.org/download/releases/2.5.3/,https://www.python.org/download/releases/2.5.3/md5sum.py,MD5,404.0,True
+12566,https://www.python.org/download/releases/2.5.3/,https://www.python.org/download/releases/2.5.3/Python-2.5.3.tgz.asc,signature,404.0,True
+12568,https://www.python.org/download/releases/2.5.3/,https://www.python.org/download/releases/2.5.3/Python-2.5.3.tar.bz2.asc,signature,404.0,True
+12570,https://www.python.org/download/releases/2.5.3/,https://www.python.org/download/releases/2.5.3/python-2.5.3.msi.asc,signature,404.0,True
+12572,https://www.python.org/download/releases/2.5.3/,https://www.python.org/download/releases/2.5.3/python-2.5.3.amd64.msi.asc,signature,404.0,True
+12574,https://www.python.org/download/releases/2.5.3/,https://www.python.org/download/releases/2.5.3/python-2.5.3.ia64.msi.asc,signature,404.0,True
+12576,https://www.python.org/download/releases/2.5.3/,https://www.python.org/download/releases/2.5.3/python-2.5.3-macosx.dmg.asc,signature,404.0,True
+12578,https://www.python.org/download/releases/2.5.3/,https://www.python.org/download/releases/2.5.3/Python25.chm.asc,signature,404.0,True
+13576,https://www.python.org/downloads/release/python-278/,https://www.python.org/ftp/python/2.7.8/python-2.7.8-pdb.zip.asc,SIG,404.0,True
+13578,https://www.python.org/downloads/release/python-278/,https://www.python.org/ftp/python/2.7.8/python-2.7.8.amd64-pdb.zip.asc,SIG,404.0,True
+13580,https://www.python.org/downloads/release/python-278/,https://www.python.org/ftp/python/2.7.8/python278.chm.asc,SIG,404.0,True
+13582,https://www.python.org/downloads/release/python-278/,https://www.python.org/ftp/python/2.7.8/python-2.7.8.amd64.msi.asc,SIG,404.0,True
+13584,https://www.python.org/downloads/release/python-278/,https://www.python.org/ftp/python/2.7.8/python-2.7.8.msi.asc,SIG,404.0,True
+13749,https://www.python.org/download/releases/2.5.2/,https://www.python.org/download/releases/2.5.2/NEWS.txt,detailed release notes,404.0,True
+13752,https://www.python.org/download/releases/2.5.2/,https://www.python.org/doc/2.5/whatsnew/whatsnew25.html,What's New In Python,404.0,True
+13766,https://www.python.org/download/releases/2.5.2/,https://www.python.org/download/releases/2.5.2/NEWS.txt,release notes,404.0,True
+13769,https://www.python.org/download/releases/2.5.2/,https://www.python.org/download/releases/2.5.2/md5sum.py,MD5,404.0,True
+13771,https://www.python.org/download/releases/2.5.2/,https://www.python.org/download/releases/2.5.2/Python-2.5.2.tgz.asc,signature,404.0,True
+13773,https://www.python.org/download/releases/2.5.2/,https://www.python.org/download/releases/2.5.2/Python-2.5.2.tar.bz2.asc,signature,404.0,True
+13775,https://www.python.org/download/releases/2.5.2/,https://www.python.org/download/releases/2.5.2/python-2.5.2.msi.asc,signature,404.0,True
+13777,https://www.python.org/download/releases/2.5.2/,https://www.python.org/download/releases/2.5.2/python-2.5.2.amd64.msi.asc,signature,404.0,True
+13779,https://www.python.org/download/releases/2.5.2/,https://www.python.org/download/releases/2.5.2/python-2.5.2.ia64.msi.asc,signature,404.0,True
+13781,https://www.python.org/download/releases/2.5.2/,https://www.python.org/download/releases/2.5.2/python-2.5.2-macosx.dmg.asc,signature,404.0,True
+13783,https://www.python.org/download/releases/2.5.2/,https://www.python.org/download/releases/2.5.2/Python25.chm.asc,signature,404.0,True
+23557,https://www.python.org/downloads/,https://www.python.org/~anthony/anthonypub.asc,6A45C816,404.0,True
+23558,https://www.python.org/downloads/,https://www.python.org/~gbrandl/gbrandlpub.asc,36580288,404.0,True
+23559,https://www.python.org/downloads/,https://www.python.org/~nad/nadAA65421D.asc,AA65421D,404.0,True
+23560,https://www.python.org/downloads/,https://www.python.org/~nad/nadpub.asc,6F5E1540,404.0,True
+23561,https://www.python.org/downloads/,https://www.python.org/~larry/larrygpg.asc,F73C700D,404.0,True
+23562,https://www.python.org/downloads/,https://www.python.org/~peterson/pubkey.asc,18ADD4FF and A4135B38,404.0,True
+32560,https://www.python.org/download/releases/2.2.2/,https://www.python.org/download/releases/2.2.2/NEWS.txt,release notes,404.0,True
+32562,https://www.python.org/download/releases/2.2.2/,https://www.python.org/doc/2.2.2/whatsnew/,What's New in Python 2.2,404.0,True
+32564,https://www.python.org/download/releases/2.2.2/,https://www.python.org/doc/2.2.2,Browse HTML on-line,404.0,True
+32566,https://www.python.org/download/releases/2.2.2/,https://www.python.org/download/releases/2.2.2/md5sum.py,MD5,404.0,True
+33377,https://www.python.org/download/releases/2.2.1/,https://www.python.org/download/releases/2.2.1/NEWS,release notes,404.0,True
+33379,https://www.python.org/download/releases/2.2.1/,https://www.python.org/doc/2.2.1/whatsnew/,What's New in Python 2.2,404.0,True
+33381,https://www.python.org/download/releases/2.2.1/,https://www.python.org/doc/2.2.1/,Browse,404.0,True
+33383,https://www.python.org/download/releases/2.2.1/,https://www.python.org/download/releases/2.2.1/md5sum.py,MD5,404.0,True
+36787,https://www.python.org/download/releases/2.2.3/,https://www.python.org/download/releases/2.2.3/NEWS.txt,release notes,404.0,True
+36789,https://www.python.org/download/releases/2.2.3/,https://www.python.org/doc/2.2.3/whatsnew/,What's New in Python 2.2,404.0,True
+36791,https://www.python.org/download/releases/2.2.3/,https://www.python.org/doc/2.2.3,Browse HTML on-line,404.0,True
+36793,https://www.python.org/download/releases/2.2.3/,https://www.python.org/download/releases/2.2.3/md5sum.py,MD5,404.0,True
+45338,https://www.python.org/download/releases/2.5.6/,https://www.python.org/download/releases/2.5.6/download/releases/2.5.4/,2.5.4,404.0,True
+45341,https://www.python.org/download/releases/2.5.6/,https://www.python.org/download/releases/2.5.6/NEWS.txt,detailed release notes,404.0,True
+45348,https://www.python.org/download/releases/2.5.6/,https://www.python.org/download/releases/2.5.6/NEWS.txt,release notes,404.0,True
+45350,https://www.python.org/download/releases/2.5.6/,https://www.python.org/download/releases/2.5.4/md5sum.py,MD5,404.0,True
+57799,http://www.python.org/doc/2.5/whatsnew/whatsnew25.html,https://www.python.org/doc/2.5/whatsnew/whatsnew25.html,HSTS Policy,404.0,
+76589,https://www.python.org/downloads/windows/,https://www.python.org/ftp/python/3.2.5/python324.chm,Windows help file,404.0,True
+76609,https://www.python.org/downloads/windows/,https://www.python.org/ftp/python/3.2.4/python324.chm,Windows help file,404.0,True
+76634,https://www.python.org/downloads/windows/,https://www.python.org/ftp/python/3.2.2/python322.chm,Windows help file,404.0,True
+84146,https://www.python.org/downloads/source,https://www.python.org/~anthony/anthonypub.asc,6A45C816,404.0,True
+84147,https://www.python.org/downloads/source,https://www.python.org/~gbrandl/gbrandlpub.asc,36580288,404.0,True
+84148,https://www.python.org/downloads/source,https://www.python.org/~nad/nadAA65421D.asc,AA65421D,404.0,True
+84149,https://www.python.org/downloads/source,https://www.python.org/~nad/nadpub.asc,6F5E1540,404.0,True
+84150,https://www.python.org/downloads/source,https://www.python.org/~larry/larrygpg.asc,F73C700D,404.0,True
+84151,https://www.python.org/downloads/source,https://www.python.org/~peterson/pubkey.asc,18ADD4FF and A4135B38,404.0,True
+86830,https://www.python.org/downloads/release/python-315/license,https://www.python.org/~anthony/anthonypub.asc,6A45C816,404.0,True
+86831,https://www.python.org/downloads/release/python-315/license,https://www.python.org/~gbrandl/gbrandlpub.asc,36580288,404.0,True
+86832,https://www.python.org/downloads/release/python-315/license,https://www.python.org/~nad/nadAA65421D.asc,AA65421D,404.0,True
+86833,https://www.python.org/downloads/release/python-315/license,https://www.python.org/~nad/nadpub.asc,6F5E1540,404.0,True
+86834,https://www.python.org/downloads/release/python-315/license,https://www.python.org/~larry/larrygpg.asc,F73C700D,404.0,True
+86835,https://www.python.org/downloads/release/python-315/license,https://www.python.org/~peterson/pubkey.asc,18ADD4FF and A4135B38,404.0,True
+88927,https://www.python.org/doc/essays/metaclasses/,https://www.python.org/doc/essays/metaclasses/meta-vladimir.txt,message posted by Vladimir Marangozov,404.0,True
+88931,https://www.python.org/doc/essays/metaclasses/,https://www.python.org/doc/essays/metaclasses/Enum.py,Enum.py,404.0,True
+88932,https://www.python.org/doc/essays/metaclasses/,https://www.python.org/doc/essays/metaclasses/Trace.py,Trace.py,404.0,True
+88933,https://www.python.org/doc/essays/metaclasses/,https://www.python.org/doc/essays/metaclasses/Meta.py,Meta.py,404.0,True
+88934,https://www.python.org/doc/essays/metaclasses/,https://www.python.org/doc/essays/metaclasses/Eiffel.py,Eiffel.py,404.0,True
+88935,https://www.python.org/doc/essays/metaclasses/,https://www.python.org/doc/essays/metaclasses/Synch.py,Synch.py,404.0,True
+88936,https://www.python.org/doc/essays/metaclasses/,https://www.python.org/doc/essays/metaclasses/Simple.py,Simple.py,404.0,True
+90985,https://www.python.org/success-stories/test-success-story/,https://www.python.org/files/success/rackspace/datacenter.jpg,Zoom in,404.0,True
+98563,https://www.python.org/download/releases/2.4.1/,https://www.python.org/2.4/index.html,Python 2.4,404.0,True
+98564,https://www.python.org/download/releases/2.4.1/,https://www.python.org/2.4/highlights.html,2.4 highlights,404.0,True
+98565,https://www.python.org/download/releases/2.4.1/,https://www.python.org/doc/2.4/whatsnew/whatsnew24.html,What's New In Python,404.0,True
+98569,https://www.python.org/download/releases/2.4.1/,https://www.python.org/2.4/msi.html,many other shiny new features,404.0,True
+98574,https://www.python.org/download/releases/2.4.1/,https://www.python.org/2.4/highlights.html,highlights,404.0,True
+98575,https://www.python.org/download/releases/2.4.1/,https://www.python.org/doc/2.4/whatsnew/whatsnew24.html,What's New in Python 2.4,404.0,True
+98576,https://www.python.org/download/releases/2.4.1/,https://www.python.org/2.3/,Python 2.3,404.0,True
+98577,https://www.python.org/download/releases/2.4.1/,https://www.python.org/download/releases/2.4.1/NEWS.html,release notes,404.0,True
+98578,https://www.python.org/download/releases/2.4.1/,https://www.python.org/doc/2.4.1/,Browse HTML on-line,404.0,True
+98580,https://www.python.org/download/releases/2.4.1/,https://www.python.org/download/releases/2.4.1/md5sum.py,MD5,404.0,True
+98582,https://www.python.org/download/releases/2.4.1/,https://www.python.org/download/releases/2.4.1/Python-2.4.1.tgz.asc,sig,404.0,True
+98584,https://www.python.org/download/releases/2.4.1/,https://www.python.org/download/releases/2.4.1/Python-2.4.1.tar.bz2.asc,sig,404.0,True
+98586,https://www.python.org/download/releases/2.4.1/,https://www.python.org/download/releases/2.4.1/python-2.4.1.msi.asc,sig,404.0,True
+98588,https://www.python.org/download/releases/2.4.1/,https://www.python.org/download/releases/2.4.1/python-2.4.1.ia64.msi.asc,sig,404.0,True
+98590,https://www.python.org/download/releases/2.4.1/,https://www.python.org/download/releases/2.4.1/MacPython-OSX-2.4.1-1.dmg.asc,sig,404.0,True
+101976,https://www.python.org/download/releases/2.4.6/,https://www.python.org/download/releases/2.4.6/NEWS.txt,detailed release notes,404.0,True
+101987,https://www.python.org/download/releases/2.4.6/,https://www.python.org/download/releases/2.4.6/NEWS.txt,release notes,404.0,True
+101991,https://www.python.org/download/releases/2.4.6/,https://www.python.org/download/releases/2.4.6/md5sum.py,MD5,404.0,True
+101993,https://www.python.org/download/releases/2.4.6/,https://www.python.org/download/releases/2.4.6/Python-2.4.6.tgz.asc,signature,404.0,True
+101995,https://www.python.org/download/releases/2.4.6/,https://www.python.org/download/releases/2.4.6/Python-2.4.6.tar.bz2.asc,signature,404.0,True
+102937,https://www.python.org/download/releases/2.4.5/,https://www.python.org/download/releases/2.4.5/NEWS.txt,detailed release notes,404.0,True
+102948,https://www.python.org/download/releases/2.4.5/,https://www.python.org/download/releases/2.4.5/NEWS.txt,release notes,404.0,True
+102952,https://www.python.org/download/releases/2.4.5/,https://www.python.org/download/releases/2.4.5/md5sum.py,MD5,404.0,True
+102954,https://www.python.org/download/releases/2.4.5/,https://www.python.org/download/releases/2.4.5/Python-2.4.5.tgz.asc,signature,404.0,True
+102956,https://www.python.org/download/releases/2.4.5/,https://www.python.org/download/releases/2.4.5/Python-2.4.5.tar.bz2.asc,signature,404.0,True
+105521,https://www.python.org/download/releases/2.7.2/,https://www.python.org/download/releases/2.7.2/Python-2.7.2.tgz.asc,(sig),404.0,True
+105523,https://www.python.org/download/releases/2.7.2/,https://www.python.org/download/releases/2.7.2/Python-2.7.2.tar.bz2.asc,(sig),404.0,True
+105525,https://www.python.org/download/releases/2.7.2/,https://www.python.org/download/releases/2.7.2/Python-2.7.2.tar.xz.asc,(sig),404.0,True
+105527,https://www.python.org/download/releases/2.7.2/,https://www.python.org/download/releases/2.7.2/python-2.7.2.msi.asc,(sig),404.0,True
+105529,https://www.python.org/download/releases/2.7.2/,https://www.python.org/download/releases/2.7.2/python-2.7.2-pdb.zip.asc,(sig),404.0,True
+105532,https://www.python.org/download/releases/2.7.2/,https://www.python.org/download/releases/2.7.2/python-2.7.2.amd64.msi.asc,(sig),404.0,True
+105535,https://www.python.org/download/releases/2.7.2/,https://www.python.org/download/releases/2.7.2/python-2.7.2.amd64-pdb.zip.asc,(sig),404.0,True
+105538,https://www.python.org/download/releases/2.7.2/,https://www.python.org/download/releases/2.7.2/python-2.7.2-macosx10.6.dmg.asc,(sig),404.0,True
+105541,https://www.python.org/download/releases/2.7.2/,https://www.python.org/download/releases/2.7.2/python-2.7.2-macosx10.3.dmg.asc,(sig),404.0,True
+106543,https://www.python.org/download/releases/2.7.1/,https://www.python.org/download/releases/2.7.1/Python-2.7.1.tgz.asc,(sig),404.0,True
+106545,https://www.python.org/download/releases/2.7.1/,https://www.python.org/download/releases/2.7.1/Python-2.7.1.tar.bz2.asc,(sig),404.0,True
+106547,https://www.python.org/download/releases/2.7.1/,https://www.python.org/download/releases/2.7.1/python-2.7.1.msi.asc,(sig),404.0,True
+106549,https://www.python.org/download/releases/2.7.1/,https://www.python.org/download/releases/2.7.1/python-2.7.1-pdb.zip.asc,(sig),404.0,True
+106552,https://www.python.org/download/releases/2.7.1/,https://www.python.org/download/releases/2.7.1/python-2.7.1.amd64.msi.asc,(sig),404.0,True
+106555,https://www.python.org/download/releases/2.7.1/,https://www.python.org/download/releases/2.7.1/python-2.7.1.amd64-pdb.zip.asc,(sig),404.0,True
+106558,https://www.python.org/download/releases/2.7.1/,https://www.python.org/download/releases/2.7.1/python-2.7.1-macosx10.3.dmg.asc,(sig),404.0,True
+106561,https://www.python.org/download/releases/2.7.1/,https://www.python.org/download/releases/2.7.1/python-2.7.1-macosx10.6.dmg.asc,(sig),404.0,True
+110878,https://www.python.org/download/releases/3.1.2/,https://www.python.org/ftp/python/3.1.2/python-3.1.2.sig,(sig),404.0,True
+112546,https://www.python.org/download/releases/2.2/,https://www.python.org/download/releases/2.2/md5sum.py,MD5,404.0,True
+112550,https://www.python.org/download/releases/2.2/,https://www.python.org/dev/peps/pep-0252.html,PEP 252,404.0,True
+112551,https://www.python.org/download/releases/2.2/,https://www.python.org/dev/peps/pep-0253.html,PEP 253,404.0,True
+112553,https://www.python.org/download/releases/2.2/,https://www.python.org/dev/peps/pep-0234.html,PEP 234,404.0,True
+112554,https://www.python.org/download/releases/2.2/,https://www.python.org/dev/peps/pep-0255.html,PEP 255,404.0,True
+112555,https://www.python.org/download/releases/2.2/,https://www.python.org/dev/peps/pep-0238.html,PEP 238,404.0,True
+112556,https://www.python.org/download/releases/2.2/,https://www.python.org/dev/peps/pep-0237.html,PEP 237,404.0,True
+112558,https://www.python.org/download/releases/2.2/,https://www.python.org/doc/2.2.3/whatsnew/whatsnew22.html,What's New in Python 2.2,404.0,True
+112560,https://www.python.org/download/releases/2.2/,https://www.python.org/download/releases/2.2/NEWS.txt,release notes,404.0,True
+112561,https://www.python.org/download/releases/2.2/,https://www.python.org/doc/2.2/,Browse,404.0,True
+114556,https://www.python.org/download/releases/2.4/,https://www.python.org/doc/2.4/whatsnew/whatsnew24.html,What's New In Python,404.0,True
+114566,https://www.python.org/download/releases/2.4/,https://www.python.org/doc/2.4/whatsnew/whatsnew24.html,What's New in Python 2.4,404.0,True
+114907,https://www.python.org/download/releases/2.3/,https://www.python.org/doc/2.3/whatsnew/,What's New in Python 2.3,404.0,True
+114909,https://www.python.org/download/releases/2.3/,https://www.python.org/download/releases/2.3/NEWS.txt,release notes,404.0,True
+114911,https://www.python.org/download/releases/2.3/,https://www.python.org/doc/2.3/,Browse HTML on-line,404.0,True
+114915,https://www.python.org/download/releases/2.3/,https://www.python.org/download/releases/2.3/mro/mro.txt,reStructured Text,404.0,True
+114916,https://www.python.org/download/releases/2.3/,https://www.python.org/download/releases/2.3/md5sum.py,MD5,404.0,True
+114918,https://www.python.org/download/releases/2.3/,https://www.python.org/download/releases/2.3/Python-2.3.tgz.asc,signature,404.0,True
+114920,https://www.python.org/download/releases/2.3/,https://www.python.org/download/releases/2.3/Python-2.3.exe.asc,signature,404.0,True
+115539,https://www.python.org/download/releases/2.6/,https://www.python.org/download/releases/2.6/NEWS.txt,NEWS,404.0,True
+115543,https://www.python.org/download/releases/2.6/,https://www.python.org/download/releases/2.6/Python-2.6.tgz.asc,(sig),404.0,True
+115545,https://www.python.org/download/releases/2.6/,https://www.python.org/download/releases/2.6/Python-2.6.tar.bz2.asc,(sig),404.0,True
+115547,https://www.python.org/download/releases/2.6/,https://www.python.org/download/releases/2.6/python-2.6.msi.asc,(sig),404.0,True
+115550,https://www.python.org/download/releases/2.6/,https://www.python.org/download/releases/2.6/python-2.6.amd64.msi.asc,(sig),404.0,True
+115552,https://www.python.org/download/releases/2.6/,https://www.python.org/download/releases/2.6/python-2.6-macosx2008-10-01.dmg.asc,(sig),404.0,True
+115718,https://www.python.org/about/success/projectpipe/,https://www.python.org/about/success/projectpipe/projectPipeArchitecture.png,Zoom in,404.0,True
+115915,https://www.python.org/download/releases/2.5/,https://www.python.org/download/releases/2.5/NEWS.txt,release notes,404.0,True
+115916,https://www.python.org/download/releases/2.5/,https://www.python.org/download/releases/2.5/IDLENEWS.txt,own release notes,404.0,True
+115920,https://www.python.org/download/releases/2.5/,https://www.python.org/download/releases/2.5/md5sum.py,MD5,404.0,True
+121787,https://www.python.org/download/releases/2.1.3/,https://www.python.org/download/releases/2.1.3/NEWS.txt,release notes,404.0,True
+121792,https://www.python.org/download/releases/2.1.3/,https://www.python.org/download/releases/2.1.2/md5sum.py,MD5,404.0,True
+121796,https://www.python.org/download/releases/2.1.3/,https://www.python.org/doc/2.1.3/,Browse HTML,404.0,True
+136686,https://www.python.org/download/releases/3.0.1/,https://www.python.org/download/releases/3.0.1/NEWS.txt,Python 3.0 change log,404.0,True
+151134,https://www.python.org/doc/essays/cp4e/,https://www.python.org/doc/essays/sigs/edu-sig/,EDU-SIG,404.0,True
+151135,https://www.python.org/doc/essays/cp4e/,https://www.python.org/doc/essays/sigs/edu-sig/,(edu-sig),404.0,True
+155394,https://www.python.org/download/releases/2.6.2/,https://www.python.org/download/releases/2.6.2/NEWS.txt,NEWS file,404.0,True
+155399,https://www.python.org/download/releases/2.6.2/,https://www.python.org/download/releases/2.6.2/Python-2.6.2.tgz.asc,(sig),404.0,True
+155401,https://www.python.org/download/releases/2.6.2/,https://www.python.org/download/releases/2.6.2/Python-2.6.2.tar.bz2.asc,(sig),404.0,True
+155403,https://www.python.org/download/releases/2.6.2/,https://www.python.org/download/releases/2.6.2/python-2.6.2.msi.asc,(sig),404.0,True
+155406,https://www.python.org/download/releases/2.6.2/,https://www.python.org/download/releases/2.6.2/python-2.6.2.amd64.msi.asc,(sig),404.0,True
+155408,https://www.python.org/download/releases/2.6.2/,https://www.python.org/download/releases/2.6.2/python-2.6.2-macosx2009-04-16.dmg.sig,(sig),404.0,True
+155410,https://www.python.org/download/releases/2.6.2/,https://www.python.org/download/releases/2.6.2/python262.chm.asc,(sig),404.0,True
+156524,https://www.python.org/download/releases/2.6.1/,https://www.python.org/download/releases/2.6.1/NEWS.txt,detailed release notes,404.0,True
+156525,https://www.python.org/download/releases/2.6.1/,https://www.python.org/download/releases/2.6.1/NEWS.txt,NEWS,404.0,True
+156529,https://www.python.org/download/releases/2.6.1/,https://www.python.org/download/releases/2.6.1/Python-2.6.1.tgz.asc,(sig),404.0,True
+156531,https://www.python.org/download/releases/2.6.1/,https://www.python.org/download/releases/2.6.1/Python-2.6.1.tar.bz2.asc,(sig),404.0,True
+156533,https://www.python.org/download/releases/2.6.1/,https://www.python.org/download/releases/2.6.1/python-2.6.1.msi.asc,(sig),404.0,True
+156536,https://www.python.org/download/releases/2.6.1/,https://www.python.org/download/releases/2.6.1/python-2.6.1.amd64.msi.asc,(sig),404.0,True
+156538,https://www.python.org/download/releases/2.6.1/,https://www.python.org/download/releases/2.6.1/python-2.6.1-macosx2008-12-06.dmg.asc,(sig),404.0,True
+167039,https://www.python.org/dev/peps/pep-0545/,https://www.python.org/psf/contrib/doc-contrib-form/,https://www.python.org/psf/contrib/doc-contrib-form/,404.0,True
+169310,https://www.python.org/doc/essays/refcnt/,https://www.python.org/doc/api/refcounts.html,section 1.2.1,404.0,True
+171703,https://www.python.org/downloads/unpacking,https://www.python.org/~anthony/anthonypub.asc,6A45C816,404.0,True
+171704,https://www.python.org/downloads/unpacking,https://www.python.org/~gbrandl/gbrandlpub.asc,36580288,404.0,True
+171705,https://www.python.org/downloads/unpacking,https://www.python.org/~nad/nadAA65421D.asc,AA65421D,404.0,True
+171706,https://www.python.org/downloads/unpacking,https://www.python.org/~nad/nadpub.asc,6F5E1540,404.0,True
+171707,https://www.python.org/downloads/unpacking,https://www.python.org/~larry/larrygpg.asc,F73C700D,404.0,True
+171708,https://www.python.org/downloads/unpacking,https://www.python.org/~peterson/pubkey.asc,18ADD4FF and A4135B38,404.0,True
+176998,https://www.python.org/download/releases/2.3.3/,https://www.python.org/download/releases/2.3.3/NEWS.txt,release notes,404.0,True
+177006,https://www.python.org/download/releases/2.3.3/,https://www.python.org/download/releases/2.3.3/NEWS.txt,release notes,404.0,True
+177009,https://www.python.org/download/releases/2.3.3/,https://www.python.org/doc/2.3.3/whatsnew/,What's New in Python 2.3,404.0,True
+177012,https://www.python.org/download/releases/2.3.3/,https://www.python.org/doc/2.3.3/,Browse HTML documentation on-line,404.0,True
+177014,https://www.python.org/download/releases/2.3.3/,https://www.python.org/2.2.3/descrintro,interim documentation for new-style classes,404.0,True
+177016,https://www.python.org/download/releases/2.3.3/,https://www.python.org/download/releases/2.3/mro/mro.txt,reStructured Text,404.0,True
+177017,https://www.python.org/download/releases/2.3.3/,https://www.python.org/download/releases/2.3.3/md5sum.py,MD5,404.0,True
+177019,https://www.python.org/download/releases/2.3.3/,https://www.python.org/download/releases/2.3.3/Python-2.3.3.tgz.asc,signature,404.0,True
+177021,https://www.python.org/download/releases/2.3.3/,https://www.python.org/download/releases/2.3.3/Python-2.3.3.tar.bz2.asc,signature,404.0,True
+177023,https://www.python.org/download/releases/2.3.3/,https://www.python.org/download/releases/2.3.3/Python-2.3.3.exe.asc,signature,404.0,True
+178903,https://www.python.org/download/releases/2.3.2/,https://www.python.org/doc/2.3/whatsnew/,What's New in Python 2.3,404.0,True
+178905,https://www.python.org/download/releases/2.3.2/,https://www.python.org/download/releases/2.3.2/NEWS.txt,release notes,404.0,True
+178907,https://www.python.org/download/releases/2.3.2/,https://www.python.org/doc/2.3.2/,Browse HTML documentation on-line,404.0,True
+178910,https://www.python.org/download/releases/2.3.2/,https://www.python.org/download.releases/2.3/mro,The Python 2.3 Method Resolution Order,404.0,True
+178911,https://www.python.org/download/releases/2.3.2/,https://www.python.org/download/releases/2.3/mro/mro.txt,reStructured Text,404.0,True
+178912,https://www.python.org/download/releases/2.3.2/,https://www.python.org/download/releases/2.3.2/md5sum.py,MD5,404.0,True
+178914,https://www.python.org/download/releases/2.3.2/,https://www.python.org/download/releases/2.3.2/Python-2.3.2.tgz.asc,signature,404.0,True
+178916,https://www.python.org/download/releases/2.3.2/,https://www.python.org/download/releases/2.3.2/Python-2.3.2.tar.bz2.asc,signature,404.0,True
+178918,https://www.python.org/download/releases/2.3.2/,https://www.python.org/download/releases/2.3.2/Python-2.3.2-1.exe.asc,signature,404.0,True
+179886,https://www.python.org/download/releases/2.3.1/,https://www.python.org/doc/2.3/whatsnew/,What's New in Python 2.3,404.0,True
+179888,https://www.python.org/download/releases/2.3.1/,https://www.python.org/download/releases/2.3.1/NEWS.txt,release notes,404.0,True
+179889,https://www.python.org/download/releases/2.3.1/,https://www.python.org/download/releases/2.3.1/ChangeLog.txt,ChangeLog,404.0,True
+179891,https://www.python.org/download/releases/2.3.1/,https://www.python.org/doc/2.3.1/,Browse HTML documentation on-line,404.0,True
+179895,https://www.python.org/download/releases/2.3.1/,https://www.python.org/download/releases/2.3/mro/mro.txt,reStructured Text,404.0,True
+179896,https://www.python.org/download/releases/2.3.1/,https://www.python.org/download/releases/2.3.1/md5sum.py,MD5,404.0,True
+179898,https://www.python.org/download/releases/2.3.1/,https://www.python.org/download/releases/2.3.1/Python-2.3.1.tgz.asc,signature,404.0,True
+179900,https://www.python.org/download/releases/2.3.1/,https://www.python.org/download/releases/2.3.1/Python-2.3.1.exe.asc,signature,404.0,True
+181135,https://www.python.org/download/releases/2.3.7/,https://www.python.org/download/releases/2.3.7/NEWS.txt,detailed release notes,404.0,True
+181149,https://www.python.org/download/releases/2.3.7/,https://www.python.org/download/releases/2.3.7/NEWS.txt,release notes,404.0,True
+181150,https://www.python.org/download/releases/2.3.7/,https://www.python.org/doc/2.3.5/,Browse HTML on-line,404.0,True
+181152,https://www.python.org/download/releases/2.3.7/,https://www.python.org/download/releases/2.3.7/md5sum.py,MD5,404.0,True
+181154,https://www.python.org/download/releases/2.3.7/,https://www.python.org/download/releases/2.3.7/Python-2.3.7.tgz.asc,signature,404.0,True
+181156,https://www.python.org/download/releases/2.3.7/,https://www.python.org/download/releases/2.3.7/Python-2.3.7.tar.bz2.asc,signature,404.0,True
+182020,https://www.python.org/download/releases/2.3.6/,https://www.python.org/download/releases/2.3.6/NEWS.txt,detailed release notes,404.0,True
+182035,https://www.python.org/download/releases/2.3.6/,https://www.python.org/download/releases/2.3.6/NEWS.txt,release notes,404.0,True
+182036,https://www.python.org/download/releases/2.3.6/,https://www.python.org/doc/2.3.5/,Browse HTML on-line,404.0,True
+182038,https://www.python.org/download/releases/2.3.6/,https://www.python.org/download/releases/2.3.6/md5sum.py,MD5,404.0,True
+182040,https://www.python.org/download/releases/2.3.6/,https://www.python.org/download/releases/2.3.6/Python-2.3.6.tgz.asc,signature,404.0,True
+182042,https://www.python.org/download/releases/2.3.6/,https://www.python.org/download/releases/2.3.6/Python-2.3.6.tar.bz2.asc,signature,404.0,True
+183211,https://www.python.org/download/releases/2.3.5/,https://www.python.org/doc/2.3/whatsnew/,What's New in Python 2.3,404.0,True
+183213,https://www.python.org/download/releases/2.3.5/,https://www.python.org/doc/2.3.5/,Browse HTML documentation on-line,404.0,True
+183217,https://www.python.org/download/releases/2.3.5/,https://www.python.org/download/releases/2.3/mro/mro.txt,reStructured Text,404.0,True
+183218,https://www.python.org/download/releases/2.3.5/,https://www.python.org/download/releases/2.3.5/md5sum.py,MD5,404.0,True
+183220,https://www.python.org/download/releases/2.3.5/,https://www.python.org/download/releases/2.3.5/Python-2.3.5.tgz.asc,signature,404.0,True
+183222,https://www.python.org/download/releases/2.3.5/,https://www.python.org/download/releases/2.3.5/Python-2.3.5.tar.bz2.asc,signature,404.0,True
+183224,https://www.python.org/download/releases/2.3.5/,https://www.python.org/download/releases/2.3.5/Python-2.3.5.exe.asc,signature,404.0,True
+184379,https://www.python.org/download/releases/2.3.4/,https://www.python.org/download/releases/2.3.4/NEWS.txt,release notes,404.0,True
+184387,https://www.python.org/download/releases/2.3.4/,https://www.python.org/download/releases/2.3.4/NEWS.txt,release notes,404.0,True
+184390,https://www.python.org/download/releases/2.3.4/,https://www.python.org/doc/2.3.4/whatsnew/,What's New in Python 2.3,404.0,True
+184392,https://www.python.org/download/releases/2.3.4/,https://www.python.org/doc/2.3.4/,Browse HTML documentation on-line,404.0,True
+184396,https://www.python.org/download/releases/2.3.4/,https://www.python.org/download/releases/2.3/mro/mro.txt,reStructured Text,404.0,True
+184397,https://www.python.org/download/releases/2.3.4/,https://www.python.org/download/releases/2.3.4/md5sum.py,MD5,404.0,True
+184399,https://www.python.org/download/releases/2.3.4/,https://www.python.org/download/releases/2.3.4/Python-2.3.4.tgz.asc,signature,404.0,True
+184401,https://www.python.org/download/releases/2.3.4/,https://www.python.org/download/releases/2.3.4/Python-2.3.4.tar.bz2.asc,signature,404.0,True
+184403,https://www.python.org/download/releases/2.3.4/,https://www.python.org/download/releases/2.3.4/Python-2.3.4.exe.asc,signature,404.0,True
+186412,https://www.python.org/dev/peps/pep-0451/,"https://www.python.org/dev/peps/pep-0451/The""target""parameteroffind_spec()","the ""target"" parameter",404.0,True
+187127,https://www.python.org/download/releases/2.6.6/,https://www.python.org/download/releases/2.6.6/NEWS.txt,NEWS file,404.0,True
+187132,https://www.python.org/download/releases/2.6.6/,https://www.python.org/download/releases/2.6.6/Python-2.6.6.tgz.asc,(sig),404.0,True
+187134,https://www.python.org/download/releases/2.6.6/,https://www.python.org/download/releases/2.6.6/Python-2.6.6.tar.bz2.asc,(sig),404.0,True
+187136,https://www.python.org/download/releases/2.6.6/,https://www.python.org/download/releases/2.6.6/python-2.6.6.msi.asc,(sig),404.0,True
+187139,https://www.python.org/download/releases/2.6.6/,https://www.python.org/download/releases/2.6.6/python-2.6.6.amd64.msi.asc,(sig),404.0,True
+187141,https://www.python.org/download/releases/2.6.6/,https://www.python.org/download/releases/2.6.6/python266.chm.asc,(sig),404.0,True
+187143,https://www.python.org/download/releases/2.6.6/,https://www.python.org/download/releases/2.6.6/python-2.6.6-macosx10.3.dmg.asc,(sig),404.0,True
+188122,https://www.python.org/download/releases/2.6.7/,https://www.python.org/download/releases/2.6.7/NEWS.txt,NEWS file,404.0,True
+188294,https://www.python.org/download/releases/2.6.5/,https://www.python.org/download/releases/2.6.5/NEWS.txt,NEWS file,404.0,True
+188299,https://www.python.org/download/releases/2.6.5/,https://www.python.org/download/releases/2.6.5/Python-2.6.5.tgz.asc,(sig),404.0,True
+188301,https://www.python.org/download/releases/2.6.5/,https://www.python.org/download/releases/2.6.5/Python-2.6.5.tar.bz2.asc,(sig),404.0,True
+188303,https://www.python.org/download/releases/2.6.5/,https://www.python.org/download/releases/2.6.5/python-2.6.5.msi.asc,(sig),404.0,True
+188306,https://www.python.org/download/releases/2.6.5/,https://www.python.org/download/releases/2.6.5/python-2.6.5.amd64.msi.asc,(sig),404.0,True
+188308,https://www.python.org/download/releases/2.6.5/,https://www.python.org/download/releases/2.6.5/python-2.6.5.sig,(sig),404.0,True
+189137,https://www.python.org/download/releases/2.6.4/,https://www.python.org/download/releases/2.6.4/NEWS.txt,NEWS file,404.0,True
+189138,https://www.python.org/download/releases/2.6.4/,https://www.python.org/download/releases/2.6.4/license,Python license,404.0,True
+189142,https://www.python.org/download/releases/2.6.4/,https://www.python.org/download/releases/2.6.4/Python-2.6.4.tgz.asc,(sig),404.0,True
+189144,https://www.python.org/download/releases/2.6.4/,https://www.python.org/download/releases/2.6.4/Python-2.6.4.tar.bz2.asc,(sig),404.0,True
+189146,https://www.python.org/download/releases/2.6.4/,https://www.python.org/download/releases/2.6.4/python-2.6.4.msi.asc,(sig),404.0,True
+189149,https://www.python.org/download/releases/2.6.4/,https://www.python.org/download/releases/2.6.4/python-2.6.4.amd64.msi.asc,(sig),404.0,True
+189151,https://www.python.org/download/releases/2.6.4/,https://www.python.org/download/releases/2.6.4/python-2.6.4_macosx10.3.dmg.asc,(sig),404.0,True
+189836,https://www.python.org/download/releases/2.6.3/,https://www.python.org/download/releases/2.6.3/NEWS.txt,NEWS file,404.0,True
+189837,https://www.python.org/download/releases/2.6.3/,https://www.python.org/download/releases/2.6.3/license,Python license,404.0,True
+189841,https://www.python.org/download/releases/2.6.3/,https://www.python.org/download/releases/2.6.3/Python-2.6.3.tgz.asc,(sig),404.0,True
+189843,https://www.python.org/download/releases/2.6.3/,https://www.python.org/download/releases/2.6.3/Python-2.6.3.tar.bz2.asc,(sig),404.0,True
+189845,https://www.python.org/download/releases/2.6.3/,https://www.python.org/download/releases/2.6.3/python-2.6.3.msi.asc,(sig),404.0,True
+189848,https://www.python.org/download/releases/2.6.3/,https://www.python.org/download/releases/2.6.3/python-2.6.3.amd64.msi.asc,(sig),404.0,True
+189850,https://www.python.org/download/releases/2.6.3/,https://www.python.org/download/releases/2.6.3/python-2.6.3-macosx.dmg.asc,(sig),404.0,True
+192457,https://www.python.org/dev/,https://www.python.org/dev/searchplugin/,Bug Search Browser Plugin (Firefox),404.0,True
+194258,https://www.python.org/download/releases/2.6.8/,https://www.python.org/download/releases/2.6.8/NEWS.txt,NEWS file,404.0,True
+203244,https://www.python.org/success-stories/carmanah-lights-way-python/,https://www.python.org/files/success/carmanah/xwalk-proto-zoom.jpg,Zoom in,404.0,True
+217154,https://www.python.org/downloads/release/python-315/,https://www.python.org/downloads/release/3.1.4/,3.1.4,404.0,True
+217155,https://www.python.org/downloads/release/python-315/,https://www.python.org/downloads/release/3.1.4/,3.1.4,404.0,True
+229898,https://www.python.org/download/releases/2.0.1/,https://www.python.org/download/releases/2.0.1/NEWS.txt,release notes,404.0,True
+229901,https://www.python.org/download/releases/2.0.1/,https://www.python.org/download/releases/2.0.1/md5sum.py,MD5,404.0,True
+229905,https://www.python.org/download/releases/2.0.1/,https://www.python.org/doc/2.0.1/,Browse,404.0,True
