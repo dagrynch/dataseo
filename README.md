@@ -1,2 +1,2 @@
 # dataseo
-My lib for my seo work
+This is my SEO Data Kit Lib
